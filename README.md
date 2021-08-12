@@ -54,9 +54,15 @@ Eros in cursus turpis massa tincidunt dui ut ornare. Diam maecenas ultricies mi 
 
 Consequat semper viverra nam libero justo laoreet.
 
+- [ ] I can keep track of stuff
+- [ ] I can keep track of stuff
+- [ ] I can keep track of stuff
+
+
+
 | Here is | My Table | For Testing | Tables |
 |---------|----------|-------------|--------|
-| - []    | Text     | Text.       | Text!  |
+| - [ ] I can keep track of stuff   | Text     | Text.       | Text!  |
 | - bullet| - bullet | - bullet    | stop.  |
 | ~~strike~~ | me    | ~~out~~     | **b**. |
 | [link](google.com) | not   | a   | link.  |
