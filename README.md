@@ -2,8 +2,6 @@
 
 Hello world
 
-Bonjour le monde
-
 Hola Mundo
 
 你好，世界
