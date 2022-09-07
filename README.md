@@ -24,7 +24,7 @@ Accumsan tortor posuere ac ut. Massa id neque aliquam vestibulum morbi blandit. 
 
 Egestas integer eget aliquet nibh praesent tristique magna sit amet.
 
-Lacus laoreet non curabitur gravida.
+Lacus laoreet non curabitur.
 
 Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Tempor orci eu lobortis elementum nibh tellus. 
 
