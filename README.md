@@ -22,10 +22,6 @@ A cras semper auctor neque vitae tempus. Cursus eget nunc scelerisque viverra ma
 
 Accumsan tortor posuere ac ut. Massa id neque aliquam vestibulum morbi blandit. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Vivamus at augue eget arcu dictum varius duis. Bibendum enim facilisis gravida neque convallis a cras semper auctor. Eget magna fermentum iaculis eu non diam phasellus. 
 
-Egestas integer eget aliquet nibh praesent tristique magna sit amet.
-
-Lacus laoreet non curabitur.
-
 Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Tempor orci eu lobortis elementum nibh tellus. 
 
 Nibh praesent tristique magna sit amet purus gravida quis. Ultrices vitae auctor eu augue ut lectus. Sit amet cursus sit amet dictum sit amet justo. Vitae purus faucibus ornare suspendisse sed nisi lacus. Augue neque gravida in fermentum et. Felis eget velit aliquet sagittis id consectetur purus ut. 
