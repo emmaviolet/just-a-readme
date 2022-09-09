@@ -18,8 +18,6 @@ Consequat interdum varius sit amet. Ultricies leo integer malesuada nunc vel ris
 
 Ac tortor dignissim convallis aenean et tortor. Eget nunc lobortis mattis aliquam faucibus purus in massa. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Consequat id porta nibh venenatis cras sed felis eget. Lobortis elementum nibh tellus molestie nunc non blandit massa enim. 
 
-A cras semper auctor neque vitae tempus. Cursus eget nunc scelerisque viverra mauris in aliquam sem. A condimentum vitae sapien pellentesque habitant. 
-
 Accumsan tortor posuere ac ut. Massa id neque aliquam vestibulum morbi blandit. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Vivamus at augue eget arcu dictum varius duis. Bibendum enim facilisis gravida neque convallis a cras semper auctor. Eget magna fermentum iaculis eu non diam phasellus. 
 
 Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Tempor orci eu lobortis elementum nibh tellus. 
