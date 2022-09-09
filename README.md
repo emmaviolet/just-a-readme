@@ -23,11 +23,6 @@ Accumsan tortor posuere ac ut. Massa id neque aliquam vestibulum morbi blandit. 
 Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Tempor orci eu lobortis elementum nibh tellus. 
 
 Nibh praesent tristique magna sit amet purus gravida quis. Ultrices vitae auctor eu augue ut lectus. Sit amet cursus sit amet dictum sit amet justo. Vitae purus faucibus ornare suspendisse sed nisi lacus. Augue neque gravida in fermentum et. Felis eget velit aliquet sagittis id consectetur purus ut. 
-
-Nec sagittis aliquam malesuada bibendum arcu vitae. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Id cursus metus aliquam eleifend mi in nulla posuere. Sagittis vitae et leo duis. Felis eget nunc lobortis mattis aliquam faucibus purus in. Hendrerit dolor magna eget est lorem ipsum dolor sit. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper.
-
-A scelerisque purus semper eget duis at tellus at.
-
 Eu sem integer vitae justo eget magna fermentum iaculis. Lectus sit amet est placerat. 
 
 Amet risus nullam eget felis eget nunc lobortis mattis. Sed viverra tellus in hac. Felis eget velit aliquet sagittis id consectetur purus ut. Id nibh tortor id aliquet. Varius morbi enim nunc faucibus a. Sit amet risus nullam eget felis eget nunc. 
