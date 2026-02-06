@@ -2,18 +2,6 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. In arcu cursus euismod quis viverra nibh cras pulvinar. Ornare lectus sit amet est placerat in egestas erat imperdiet.
 
-لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
-
-Feugiat nibh sed pulvinar proin. Donec ultrices tincidunt arcu non sodales neque sodales ut etiam. Augue interdum velit euismod in pellentesque massa placerat duis. Dui nunc mattis enim ut tellus elementum. Sed faucibus turpis in eu. Massa sed elementum tempus egestas sed sed risus. 
-
-Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Et netus et malesuada fames ac turpis egestas. 
-
-Viverra justo nec ultrices dui. Eget mauris pharetra et ultrices neque ornare aenean. Risus pretium quam vulputate dignissim suspendisse in. Augue eget arcu dictum varius duis at consectetur.
-
-Habitant morbi tristique senectus et netus et malesuada fames ac. Faucibus nisl tincidunt eget nullam non nisi est sit. Vitae aliquet nec ullamcorper sit amet risus. Sem viverra aliquet eget sit amet tellus.
-
-Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Nam libero justo laoreet sit. 
-
 Consequat interdum varius sit amet. Ultricies leo integer malesuada nunc vel risus commodo. 
 
 Ac tortor dignissim convallis aenean et tortor. Eget nunc lobortis mattis aliquam faucibus purus in massa. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Consequat id porta nibh venenatis cras sed felis eget. Lobortis elementum nibh tellus molestie nunc non blandit massa enim. 
